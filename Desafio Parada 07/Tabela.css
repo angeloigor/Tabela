@@ -1,0 +1,37 @@
+table{
+    Width: 600px;
+    Height: 400px;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    flex-direction: row;
+}
+
+td{
+    text-align: center;
+}
+
+.td1{
+    background-color: green;
+    color: #fff;
+    font-weight: bold;
+}
+
+.td2{
+    background-color: green;
+    color: #fff;
+    font-weight: bold;
+}
+
+.td3{
+    background-color: #fff;
+}
+
+.border{
+    background-color: black;
+    color: #000;
+}
